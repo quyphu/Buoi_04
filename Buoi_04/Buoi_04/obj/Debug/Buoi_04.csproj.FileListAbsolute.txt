@@ -1,0 +1,6 @@
+E:\LuuDuLieuSinhVien\NNPQ\Buoi_04\Buoi_04\bin\Debug\Buoi_04.exe.config
+E:\LuuDuLieuSinhVien\NNPQ\Buoi_04\Buoi_04\bin\Debug\Buoi_04.exe
+E:\LuuDuLieuSinhVien\NNPQ\Buoi_04\Buoi_04\bin\Debug\Buoi_04.pdb
+E:\LuuDuLieuSinhVien\NNPQ\Buoi_04\Buoi_04\obj\Debug\Buoi_04.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\NNPQ\Buoi_04\Buoi_04\obj\Debug\Buoi_04.exe
+E:\LuuDuLieuSinhVien\NNPQ\Buoi_04\Buoi_04\obj\Debug\Buoi_04.pdb
